@@ -8,7 +8,6 @@
 
         public int Quantity { get; set; } = 1;
 
-        private decimal _price;
         public decimal Price
         {
             get
